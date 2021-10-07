@@ -1,6 +1,6 @@
 # Simple Youtube clone
 
-Simple react application that fetches the first 5 results and renders a player for the first one.
+Simple React application that fetches the first 5 youtube search results and renders a player for the first one.
 
 # What I Learned
 
