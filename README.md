@@ -7,3 +7,4 @@ Simple react application that fetches the first 5 results and renders a player f
 * Functional components
 * Hooks
 * Axios standalone component - reusability
+* List rendering and JSON parsing with JSX
